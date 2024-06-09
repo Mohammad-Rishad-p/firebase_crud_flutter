@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "266323840158",
+    "project_id": "phonenumberauthenticatio-b6d77",
+    "storage_bucket": "phonenumberauthenticatio-b6d77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266323840158:android:76ca5d52c274b29b1f7f8f",
+        "android_client_info": {
+          "package_name": "com.example.blood_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5CBmpWfbrKn_Iwx6O9oFt6W8TIpmhds8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266323840158:android:7a3d45ce5a7bb2091f7f8f",
+        "android_client_info": {
+          "package_name": "ddukk.mvocsad.cusat.firebase3_phone_number_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5CBmpWfbrKn_Iwx6O9oFt6W8TIpmhds8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
